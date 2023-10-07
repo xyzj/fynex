@@ -5,7 +5,7 @@ import (
 	"fyne.io/fyne/v2/app"
 	"fyne.io/fyne/v2/driver/desktop"
 	"fyne.io/fyne/v2/theme"
-	themex "github.com/xyzj/gopsu/fyne/theme"
+	themex "github.com/xyzj/fynex/theme"
 )
 
 // DesktopApp DesktopApp
